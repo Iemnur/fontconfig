@@ -84,9 +84,6 @@
     <ClInclude Include="..\src\fcmd5.h">
       <Filter>Header Files\src</Filter>
     </ClInclude>
-    <ClInclude Include="..\src\fcstdint.h">
-      <Filter>Header Files\src</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\fcformat.c">
